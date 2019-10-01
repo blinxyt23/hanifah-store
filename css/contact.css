@@ -1,0 +1,27 @@
+.content
+{
+    margin: 20PX 0;
+    text-align: center;
+}
+
+
+ .entry-content 
+ {
+    font-family:"Lato",sans-serif;
+    font-style:normal;font-weight:300;
+    text-align: center
+ }
+ .col-1
+ {
+     overflow: auto;
+     background-color: white;
+     color:rosybrown;
+     padding:20px 0;
+     text-align : center;
+ }
+    
+.entry-title{
+    font-family:"Exo 2",sans-serif;
+    font-style:normal;
+    font-weight:300;
+}
